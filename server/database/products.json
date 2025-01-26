@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1737716790517,
+    "title": "Product Test Products",
+    "description": "This is a great product.",
+    "price": 10,
+    "image": "https://placehold.co/150"
+  },
+  {
+    "title": "Product Example T2",
+    "description": "This is a great product.",
+    "price": 20,
+    "image": "https://placehold.co/150",
+    "id": 1737720245250
+  },
+  {
+    "title": "Product Demo 1",
+    "description": "This is a great product.",
+    "price": 10,
+    "image": "https://placehold.co/150",
+    "id": 1737720260760
+  }
+]
